@@ -1,3 +1,3 @@
-# tp1_login_thiago_ducau
+# TP3-LISTAS-THOMAS-DUCAU
 
 A new Flutter project.

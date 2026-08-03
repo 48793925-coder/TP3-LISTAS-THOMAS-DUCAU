@@ -95,7 +95,7 @@ class HomeScreen extends StatelessWidget {
           Container(
             width: double.infinity,
             padding: const EdgeInsets.symmetric(horizontal: 20, vertical: 18),
-            color: Colors.blueAccent.withOpacity(0.12),
+            color: Colors.blueAccent.withAlpha((0.12 * 255).round()),
             child: Text(
               '¡Bienvenido, $username!',
               style: const TextStyle(
